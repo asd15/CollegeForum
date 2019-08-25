@@ -1,0 +1,55 @@
+             .tabs .indicator{
+   background-color:orange !important;
+   }
+   
+   .tabs .tab a{
+   color:#ffd180;
+   }
+   
+   .tabs .tab a.active{
+   color:orange;
+   }
+   
+   .tabs .tab a:hover{
+   color:#ffa726;
+   }
+   
+   .tabs .tab .one{
+   color:#bbdefb;
+   }
+   .tabs .tab .two{
+   color:#ff8a80 ;
+   }
+   .tabs .tab .three{
+   color:#fff59d;
+   }
+   .tabs .tab .four{
+   color:#b9f6ca;
+   }
+  
+   .tabs .tab .one i:hover{
+    color:#2196f3;
+   }
+   .tabs .tab .two i:hover{
+       color:red;
+   }
+   .tabs .tab .three i:hover{
+       color:#ffeb3b;
+   
+   }
+   .tabs .tab .four i:hover{
+       color:#00c853;
+   
+   }
+  
+   .like:visited{
+       cursor: not-allowed !important;
+        pointer-events: none !important;
+       color: blue;
+   }
+   .dislike:visited{
+       color:blue;
+   }
+   .report:visited{
+       color:red;
+   }
